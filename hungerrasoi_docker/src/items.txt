@@ -1,0 +1,20 @@
+Veg Thali
+----------
+Mushroom Thali
+Paneer Thali
+Thali of the day
+
+Non-Veg Thali
+-------------
+Egg Thali
+Fish Thali
+Chicken Thali
+
+Extras
+------
+Egg Curry
+Fish Curry
+Chicken Curry
+Paneer Curry
+Mushroom Curry
+Curry of the day(veg)
